@@ -1,6 +1,8 @@
 # Solid-Design-Principles
 Open Closed Principle and Liskov substitution principle with .Net
 
+Tools- Visual Studio 2019 or later Community version
+
 In software engineering, SOLID design principles intend to make object-oriented designs more understandable, flexible, and maintainable.There are many articles on SOLID design principles but i have found it difficult to get concise and clear information on Open closed principle and Liskov substitution  of SOLID.
 Below is the attempt to cover these both principles.
 

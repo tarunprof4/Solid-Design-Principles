@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace OpenClosedPrinciple_Before
+namespace LiskovSubstitution
 {
-    public class QuickSort
+    public class QuickSort : ISort
     {
         public void Sort()
         {

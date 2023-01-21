@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace OpenClosedPrinciple_Before
+namespace LiskovSubstitution
 {
-    public class HeapSort
+    public class HeapSort : ISort
     {
         public void Sort()
         {

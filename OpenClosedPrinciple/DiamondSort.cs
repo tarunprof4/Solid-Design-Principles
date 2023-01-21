@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace OpenClosedPrinciple
 {
@@ -12,5 +10,5 @@ namespace OpenClosedPrinciple
             Console.WriteLine("Diamond sort called");
         }
     }
-   
+
 }

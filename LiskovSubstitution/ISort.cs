@@ -1,4 +1,4 @@
-﻿namespace OpenClosedPrinciple
+﻿namespace LiskovSubstitution
 {
     public interface ISort
     {

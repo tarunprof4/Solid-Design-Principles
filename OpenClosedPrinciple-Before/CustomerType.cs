@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OpenClosedPrinciple_Before
+﻿namespace OpenClosedPrinciple_Before
 {
     public enum CustomerType
     {

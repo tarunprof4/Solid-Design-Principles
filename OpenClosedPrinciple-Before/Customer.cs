@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OpenClosedPrinciple_Before
+﻿namespace OpenClosedPrinciple_Before
 {
     public class Customer
     {
@@ -18,7 +14,7 @@ namespace OpenClosedPrinciple_Before
                 var sort = new BubbleSort();
                 sort.Sort();
             }
-                
+
 
             else if (this.Type == CustomerType.Gold)
             {

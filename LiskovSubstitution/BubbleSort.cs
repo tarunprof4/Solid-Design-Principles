@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace OpenClosedPrinciple_Before
+namespace LiskovSubstitution
 {
-    public class BubbleSort
+    public class BubbleSort : ISort
     {
         public void Sort()
         {

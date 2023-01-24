@@ -10,6 +10,9 @@ Visual Studio 2019 or later Community version
 In software engineering, SOLID design principles intend to make object-oriented designs more understandable, flexible, and maintainable.There are many articles on SOLID design principles but i have found it difficult to get concise and clear information on Open closed principle and Liskov substitution  of SOLID.
 Below is the attempt to cover these both principles.
 
+# Reason for Writing
+It took me personally good number of years to exactly understand the nuances of these principles and the internet has multiple variations of these principles. So here is an attempt to share these principles in clear and concise way. I am not covering single responsibility, interface segregation and dependency injection principle as these are easy to understand via internet.
+
 # Open closed principle
 Definition- open–closed principle (OCP) states "software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification"
 

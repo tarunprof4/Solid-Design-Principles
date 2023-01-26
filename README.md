@@ -35,6 +35,7 @@ Note 3 comments added in the each project to add the new diamond implementation.
 Definition- Liskov Substitution Principle (LSP) states that objects of a superclass should be replaceable with objects of its subclasses without breaking the application. 
 
 Basically try as mentioned below whenever possible
+
 public class A
 {
 }

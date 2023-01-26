@@ -32,7 +32,19 @@ We want to implement sort based on customer type. We have 3 customer types to be
 Note 3 comments added in the each project to add the new diamond implementation.
 
 # Liskov Substitution Principle
-Definition- Liskov Substitution Principle (LSP) states that objects of a superclass should be replaceable with objects of its subclasses without breaking the application.
+Definition- Liskov Substitution Principle (LSP) states that objects of a superclass should be replaceable with objects of its subclasses without breaking the application. 
+
+Basically try as mentioned below whenever possible
+public class A
+{
+}
+
+public class B : A
+{
+}
+  
+Do A a = new B(); instead of B b = new B(); whenever possible
+  
 
 This primary purpose of this principle is to help achieve open closed principle. The only extra thing to be taken care of is when there is code smell while doing the same as mentioned below.
 
